@@ -1,0 +1,13 @@
+{
+  "id": "multiembed",
+  "name": "Multi-Embed",
+  "version": "1.0.0",
+  "description": "Streams from multiple embed sources",
+  "author": "MobiFlix",
+  "icon": "https://cdn-icons-png.flaticon.com/512/2503/2503508.png",
+  "contentTypes": ["movie", "tv"],
+  "languages": ["en"],
+  "quality": ["SD", "HD", "4K"],
+  "entry": "index.js",
+  "type": "stream"
+}
