@@ -10,5 +10,5 @@
   "contentTypes": ["movie", "tv"],
   "languages": ["en"],
   "quality": ["SD", "HD", "4K"],
-  "repository": ""repository": "https://github.com/mobiflix/nuvio_embed""
+  "repository": "https://github.com/mobiflix/nuvio_embed""
 }
