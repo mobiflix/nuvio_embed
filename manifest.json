@@ -10,10 +10,7 @@
     {
       "id": "multiembed",
       "name": "Multi-Embed",
-      "entry": "index.js",
-      "contentTypes": ["movie", "tv"],
-      "languages": ["en"],
-      "quality": ["SD", "HD", "4K"]
+      "manifest": "https://raw.githubusercontent.com/mobiflix/nuvio_embed/main/provider.json"
     }
   ]
 }
